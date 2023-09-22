@@ -1,0 +1,15 @@
+steps:
+
+1.loading data into python using pandas(input.xlsx)
+
+2.loop over the links with the help of requests library extract html data
+
+3.using beautiful soup library, parse the html code/data and extract essential data
+
+4. store the data in csv or text file
+
+5.apply vador sentiment analysis on the data.
+
+
+
+
